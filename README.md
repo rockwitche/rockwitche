@@ -13,7 +13,7 @@ h2>
 ###
 <div align="center" style="margin-top: 50px;">
  <p>
-  <img height="200" src="https://github.com/GabrielRamosSA/GabrielRamosSA/blob/main/tumblr_mpe55zWE2s1rvhek2o1_500.gif" alt="Descrição do GIF">
+  <img height="200" src="https://github.com/rockwitche/rockwitche/blob/main/4YCo.gif" alt="Descrição do GIF">
 </p>
 </div>
 
