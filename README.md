@@ -25,7 +25,7 @@ h2>
 
 <div align="center">
   <h3>📱 Connect with me 📱</h3>
-  <a href="https://www.instagram.com/gabrielrmxs/">
+  <a href="https://www.instagram.com/wiitchnana/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram logo"/>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-ramos-6b9013305">
