@@ -6,9 +6,25 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"/></code>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rockwitche&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ana Clara github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockwitche&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<div style="text-align: center;">
+  <table style="border-collapse: collapse; margin: auto;">
+    <tr>
+      <td style="border: none;">
+        <!-- Imagem -->
+          <img height="auto" src="https://github.com/rockwitche/rockwitche/blob/main/4YCo.gif" alt="Descrição do GIF">
+      </td>
+      <td style="border: none;">
+        <!-- Estatísticas do GitHub -->
+        <div align="center">
+          <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rockwitche&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ana Clara github stats" />
+        </div>
+        <!-- Linguagens Principais -->
+        <div align="center">
+          <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockwitche&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center"> 
@@ -19,7 +35,7 @@
 
  ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 
 
 ###
@@ -39,3 +55,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rockwitche}/count.svg" /></p> 
 <br>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
