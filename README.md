@@ -1,34 +1,25 @@
-<h2 align="left"> Hi 👋, I'm Ana Clara
- Programmer | Full-Stack Developer | Tech Enthusiast from Brazil</
-h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+ANA+CLARA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <h3>⚡ Github Stats & Most Used Languages ⚡</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=rockwitche&theme=dracula&show_icons=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockwitche&theme=dracula&layout=compact" height="180" alt="languages graph" />
+ ### Main skills:
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"/></code>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rockwitche&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ana Clara github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockwitche&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-###
-<div align="center" style="margin-top: 50px;">
- <p>
-  <img height="200" src="https://github.com/rockwitche/rockwitche/blob/main/4YCo.gif" alt="Descrição do GIF">
-</p>
-</div>
+<div align="center"> 
+<a href="https://instagram.com/wiitchnana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.anaclaragd9gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+ 
 
-<div align="center">
-  <h3>🛠 Languages & Tools 🛠</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"/>
-</div>
-
-
-<div align="center">
-  <h3>📱 Connect with me 📱</h3>
-  <a href="https://www.instagram.com/wiitchnana/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram logo"/>
-  </a>
-</div>
+ ### Studying in this moment:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
 
 ###
@@ -44,12 +35,7 @@ h2>
 </div>
 
 <div align="center">
-  <h3>👀 Visitors Count 👀</h3>
-  <img src="https://profile-counter.glitch.me/{rockwitche}/count.svg" alt="Visitor Count" />
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rockwitche}/count.svg" /></p> 
+<br>
 </div>
-
-
-
-
-
-###
