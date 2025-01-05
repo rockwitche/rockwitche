@@ -4,8 +4,6 @@
 
  ### Main skills:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"/></code>
-
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rockwitche&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Ana Clara github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockwitche&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
