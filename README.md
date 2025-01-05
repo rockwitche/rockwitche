@@ -11,6 +11,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockwitche&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+<div align="center" style="margin-top: 50px;">
+ <p>
+  <img height="200" src="https://github.com/rockwitche/rockwitche/blob/main/4YCo.gif" alt="Descrição do GIF">
+</p>
+</div>
+
 
 <div align="center"> 
 <a href="https://instagram.com/wiitchnana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
