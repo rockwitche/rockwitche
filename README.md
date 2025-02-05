@@ -23,8 +23,7 @@
  ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117&textColor=0D1117)
-
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript&labelColor=0D1117&textColor=0D1117)
 
 
 <div align="center">
