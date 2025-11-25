@@ -2,39 +2,42 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=WELCOME!+:%29;MY+NAME+IS+ANA+CLARA)](https://git.io/typing-svg)
 
- ### Main skills:
- ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Prolog](https://img.shields.io/badge/-Prolog-0D1117?style=for-the-badge&logo=swi-prolog&labelColor=0D1117&textColor=0D1117)
+### Main skills:
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+![Prolog](https://img.shields.io/badge/-Prolog-0D1117?style=for-the-badge&logo=swi-prolog&labelColor=0D1117)
 
 <div align="center" style="margin-top: 50px;">
  <p>
   <img height="200" src="https://github.com/rockwitche/rockwitche/blob/main/4YCo.gif" alt="Descrição do GIF">
-</p>
+ </p>
 </div>
 
-
 <div align="center"> 
-<a href="https://instagram.com/wiitchnana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.anaclaragd9gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
- 
+  <a href="https://instagram.com/wiitchnana" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="mailto:cmp.1a.anaclaragd9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
- ### Studying in this moment:
+### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=coffeescript&labelColor=0D1117&textColor=0D1117)
 
-[![CODING](https://img.shields.io/badge/CODING-ff91a4?style=flat&color=ff91a4&logoColor=white)](https://seu-link-para-sobre-mim)
+[![CODING](https://img.shields.io/badge/CODING-ff91a4?style=flat&color=ff91a4&logoColor=white)]()
+
 [![wakatime](https://wakatime.com/badge/user/37300d4c-fffe-4236-9fd3-ea9470e00fad.svg)](https://wakatime.com/@37300d4c-fffe-4236-9fd3-ea9470e00fad)
 
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rockwitche&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Ana Clara Github Stats" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockwitche&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rockwitche&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Ana Clara Github Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockwitche&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rockwitche&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=ff91a4&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rockwitche&layout=compact&theme=radical&hide_border=true" alt="Wakatime Stats" />
 </div>
 
 <div align="center">
