@@ -4,7 +4,6 @@
 
 ### Main skills:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Prolog](https://img.shields.io/badge/-Prolog-0D1117?style=for-the-badge&logo=swi-prolog&labelColor=0D1117)
 
 <div align="center" style="margin-top: 50px;">
  <p>
