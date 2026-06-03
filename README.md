@@ -5,11 +5,6 @@
 ### Main skills:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
 
-<div align="center" style="margin-top: 50px;">
- <p>
-  <img height="200" src="https://github.com/rockwitche/rockwitche/blob/main/4YCo.gif" alt="Descrição do GIF">
- </p>
-</div>
 
 <div align="center"> 
   <a href="https://instagram.com/wiitchnana" target="_blank">
